@@ -23,7 +23,6 @@ VILA (Visual-Language Alignment) is a vision-language model (VLM) designed to en
 - LLaMA-2 large language model for text generation
 - Linear projector for modality alignment
 
-For more information, check the [full report](https://github.com/alextanned/ECE1512_2024F_ProjectB_AlexTan_ZhiyuanYaoyuan).
 
 ---
 
