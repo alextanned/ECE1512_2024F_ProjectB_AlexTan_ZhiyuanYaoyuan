@@ -65,7 +65,7 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 
 ## Results
 
-### Key Benchmarks
+### Key Benchmarks from [VILA Paper](https://arxiv.org/abs/2312.07533)
 
 | **Model**    | **VQAv2** | **GQA** | **TextVQA** | **MMBench** | **MM-Vet** |
 |--------------|------------|---------|-------------|-------------|------------|
