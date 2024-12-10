@@ -78,6 +78,9 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 - **Accuracy**: Maintained at 98.29% on MNIST  
 - **Memory Usage**: Slight decrease post-pruning
 
+### Run
+-Run the Part34.ipynb to see Channel Pruning results
+
 ---
 
 ## References
