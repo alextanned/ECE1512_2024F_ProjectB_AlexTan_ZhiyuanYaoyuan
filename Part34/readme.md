@@ -11,8 +11,6 @@
 - [Techniques and Contributions](#techniques-and-contributions)
 - [Optimization](#optimization)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
 - [References](#references)
 
 ---
@@ -74,7 +72,7 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 | **VILA-7B** | 79.9%      | 62.3%   | 57.8%       | 68.9%       | 34.9%      |
 | **VILA-13B**| 80.8%      | 63.3%   | 60.6%       | 70.3%       | 38.8%      |
 
-### Optimization Results
+### Channel Pruning Optimization Results
 
 - **FLOPs Reduction**: 3.98M → 1.09M  
 - **Accuracy**: Maintained at 98.29% on MNIST  
@@ -82,8 +80,40 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 
 ---
 
-## Installation
+## References
 
-   ```bash
-   git clone https://github.com/alextanned/ECE1512_2024F_ProjectB_AlexTan_ZhiyuanYaoyuan.git
-   cd ECE1512_2024F_ProjectB_AlexTan_ZhiyuanYaoyuan
+1. **Radford, A., et al.**  
+   *Learning Transferable Visual Models from Natural Language Supervision.*  
+   In: Proceedings of the International Conference on Machine Learning (ICML), 2021.  
+   [Paper Link](https://arxiv.org/abs/2103.00020)
+
+2. **Touvron, H., et al.**  
+   *LLaMA: Open and Efficient Foundation Language Models.*  
+   arXiv preprint, 2023.  
+   [Paper Link](https://arxiv.org/abs/2302.13971)
+
+3. **Lin, J., et al.**  
+   *VILA: On Pre-training for Visual Language Models.*  
+   arXiv preprint, 2023.  
+   [Paper Link](https://arxiv.org/abs/2312.07533)
+
+4. **Schuhmann, C., et al.**  
+   *LAION-5B: An Open Large-Scale Dataset for Training Next Generation Image-Text Models.*  
+   Advances in Neural Information Processing Systems (NeurIPS), 2022.  
+   [Paper Link](https://arxiv.org/abs/2210.08402)
+
+5. **Hudson, D. A., & Manning, C. D.**  
+   *GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering.*  
+   In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.  
+   [Paper Link](https://arxiv.org/abs/1902.09506)
+
+6. **He, Y., Zhang, X., & Sun, J.**  
+   *Channel Pruning for Accelerating Very Deep Neural Networks.*  
+   In: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2017.  
+   [Paper Link](https://arxiv.org/abs/1707.06168)
+
+7. **Goyal, Y., et al.**  
+   *Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering.*  
+   In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.  
+   [Paper Link](https://arxiv.org/abs/1612.00837)
+
