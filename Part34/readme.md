@@ -79,7 +79,7 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 - **Memory Usage**: Slight decrease post-pruning
 
 ### Run
--Run the Part34.ipynb to see Channel Pruning results
+- Run the Part34.ipynb to see Channel Pruning results
 
 ---
 
