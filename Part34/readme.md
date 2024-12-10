@@ -1,11 +1,6 @@
 ## part 34
 # VILA: Pre-training Strategies for Vision-Language Models
 
-**Authors:**  
-Zhiyuan Yaoyuan, Shiqi (Alex) Tan  
-Department of Electrical and Computer Engineering, University of Toronto
-
-**Project Date:** December 10, 2024
 
 ---
 
@@ -88,8 +83,6 @@ To address efficiency bottlenecks, the project proposes **Channel Pruning** to r
 ---
 
 ## Installation
-
-1. Clone the repository:
 
    ```bash
    git clone https://github.com/alextanned/ECE1512_2024F_ProjectB_AlexTan_ZhiyuanYaoyuan.git
